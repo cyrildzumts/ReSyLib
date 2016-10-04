@@ -6,7 +6,7 @@
  *
  */
 
-#include "Periphery.h"
+#include "periphery.h"
 
 namespace RSL {
 

@@ -2,7 +2,7 @@
 
 #include "GPIO.h"
 #include <fstream>
-#include <String>
+#include <string>
 
 namespace RSL {
 
@@ -32,4 +32,3 @@ namespace RSL {
 	};
 
 };
-
